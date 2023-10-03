@@ -1,0 +1,2 @@
+# musicbrainz-docs
+MusicBrainz Documentation
