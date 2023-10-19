@@ -1,0 +1,21 @@
+.. MusicBrainz Documentation Project
+
+.. toctree::
+   :maxdepth: 0
+   :titlesonly:
+
+   Area ✓ </terminology/entities/area>
+   Artist ✓ </terminology/entities/artist>
+   CD Stub </terminology/entities/cd_stub>
+   Event ✓ </terminology/entities/event>
+   Genre </terminology/entities/genre>
+   Instrument ✓ </terminology/entities/instrument>
+   Label </terminology/entities/label>
+   Place ✓ </terminology/entities/place>
+   Recording </terminology/entities/recording>
+   Relationships ✓ </terminology/entities/relationship>
+   Release Group </terminology/entities/release_group>
+   Release </terminology/entities/release>
+   Series ✓ </terminology/entities/series>
+   URL </terminology/entities/url>
+   Work </terminology/entities/work>

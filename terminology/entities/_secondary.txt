@@ -1,0 +1,9 @@
+.. MusicBrainz Documentation Project
+
+.. toctree::
+   :maxdepth: 0
+   :titlesonly:
+
+   Artist Credits ✓ </terminology/entities/artist_credit>
+   Medium </terminology/entities/medium>
+   Track </terminology/entities/track>

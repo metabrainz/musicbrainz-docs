@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" height="110" width="750">
+	<style type="text/css">
+		tspan {color:#000;font-family:Bitstream Vera Sans;font-size:14pt;}
+		text#header {font-weight:bold;}
+	</style>
+	<rect x="0" y="0" width="750" height="110" fill="#fff" />
+    <text id="header">
+		<tspan x="140" y="40" style="text-anchor:end;">Email:</tspan><tspan x="140" y="80" style="text-anchor:end;">User type:</tspan>
+	</text>
+	<text>
+		<tspan x="150" y="40">example@example.com (verified at 2012-02-06 11:29 UTC)</tspan><tspan x="150" y="80" style="text-decoration: underline;text-decoration-style:dotted;">New User</tspan>
+	</text>
+</svg>
