@@ -140,6 +140,12 @@ html_static_path = ['_static']
 #     'release': version,
 # }
 
+html_context = {
+    'extra_css_files': [
+        '_static/css/mb-specific.css',
+    ],
+}
+
 html_favicon = '_static/musicbrainz-icon.png'
 
 html_copy_source = False

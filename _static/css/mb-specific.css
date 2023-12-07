@@ -1,0 +1,158 @@
+/* MusicBrainz Site-Specific */
+
+/********************************************************/
+/*  Settings for top of left bar (.wy-side-nav-search)  */
+/********************************************************/
+
+/* left side - top (search) */
+.wy-side-nav-search {
+    background-color: black;
+    color: orange;
+}
+
+/* version number text */
+.wy-side-nav-search>div.version {
+    color: orange;
+}
+
+/* home title text */
+.wy-side-nav-search>a {
+    color: orange;
+}
+
+
+/*********************************************************/
+/*  Settings for middle of left bar (.wy-menu-vertical)  */
+/*********************************************************/
+
+/* menu section */
+.wy-menu-vertical {
+    background-color: darkorange;
+    color: black;
+}
+
+/* section heading */
+.wy-menu-vertical p.caption {
+    color: black;
+}
+
+/* topic link (level1) */
+.wy-menu-vertical a {
+    color: black;
+}
+
+.wy-menu-vertical a:hover {
+    background-color: black;
+    color: orange;
+}
+
+.wy-menu-vertical li.current>a {
+    background-color: darkorange;
+    color: black;
+}
+
+.wy-menu-vertical li.current a:hover {
+    background: black;
+    color: orange;
+}
+
+/* topic link (level2) */
+.wy-menu-vertical li.toctree-l2 a {
+    background-color: orange;
+    color: #404040;
+}
+
+.wy-menu-vertical li.toctree-l2.current>a {
+    background-color: orange;
+    color: black;
+}
+
+/* topic link (level3) */
+.wy-menu-vertical li.toctree-l2.current li.toctree-l3>a {
+    background-color: orange;
+    color: black;
+}
+
+.wy-menu-vertical li.toctree-l2.current li.toctree-l3 a:hover {
+    background-color: black;
+    color: orange;
+}
+
+/* topic link (level4) */
+.wy-menu-vertical li.toctree-l3.current li.toctree-l4>a {
+    background-color: orange;
+    color: black;
+}
+
+.wy-menu-vertical li.toctree-l3.current li.toctree-l4 a:hover {
+    background-color: black;
+    color: orange;
+}
+
+
+/*************************/
+/* Use MusicBrainz icons */
+/*************************/
+
+/* Top panel on left side navigation */
+.wy-nav-side a.icon-home, .wy-nav-side a.icon-home:hover {
+    display: inline-block;
+    padding: 4px 4px 4px 23px;
+    background: transparent url(https://raw.githubusercontent.com/metabrainz/design-system/master/brand/logos/MusicBrainz/SVG/MusicBrainz_logo_square.svg) center left no-repeat;
+    background-size: 1.5em;
+    margin-top: 0.2em;
+    margin-bottom: 1em;
+}
+
+.wy-nav-side .fa-home::before, .wy-nav-side .icon-home::before {
+    content: "";
+}
+
+.wy-nav-top a {
+    margin: -2em;
+    background: transparent url(https://raw.githubusercontent.com/metabrainz/design-system/master/brand/logos/MusicBrainz/SVG/MusicBrainz_logo_square.svg) center left no-repeat;
+    background-size: 1.5em;
+    padding: 4px 4px 4px 23px;
+}
+
+/* First link in breadcrumb navigation */
+.wy-breadcrumbs .icon-home {
+    background: transparent url(https://raw.githubusercontent.com/metabrainz/design-system/master/brand/logos/MusicBrainz/SVG/MusicBrainz_logo_square.svg) center left no-repeat;
+    width: 1em;
+    height: 1em;
+    margin: 0;
+    padding: 0;
+}
+
+.wy-breadcrumbs .icon-home::before {
+    content: "";
+}
+
+
+/*****************************************************/
+/*  Settings for bottom of left bar (.rst-versions)  */
+/*****************************************************/
+
+.rst-versions {
+    background-color: black;
+}
+
+.rst-versions .rst-current-version {
+    color: orange;
+}
+
+.rst-versions .rst-current-version .fa {
+    color: orange;
+}
+
+.rst-versions .rst-other-versions {
+    color: orange;
+}
+
+.rst-versions .rst-other-versions dd a {
+    color: darkorange;
+}
+
+.rst-versions a {
+    color: darkorange;
+}
