@@ -36,4 +36,4 @@ There are several places to find your open edits, including:
 
     * Click the :guilabel:`Edit history` link in the right sidebar
     
-* Using the `edit search page <https://musicbrainz.org/search/edits>`
+* Using the `edit search page <https://musicbrainz.org/search/edits>`_

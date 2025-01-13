@@ -6,9 +6,9 @@ Bug Tracker
 Reporting bugs
 --------------
 
-    Want to report a bug? `Report it here! <https://tickets.metabrainz.org/secure/CreateIssue!default.jspa>`
+    Want to report a bug? `Report it here! <https://tickets.metabrainz.org/secure/CreateIssue!default.jspa>`_
 
-To report a bug or unwanted behavior in the server code, `create an account <https://tickets.metabrainz.org/secure/Signup!default.jspa>` or `sign in with your MusicBrainz account <https://tickets.metabrainz.org/login.jsp>` and report it under your name. With an account, you can discuss with other users using comments if more feedback is needed and receive email updates about the bug(s) you've submitted or any other bugs you're interested in keeping tabs on.
+To report a bug or unwanted behavior in the server code, `create an account <https://tickets.metabrainz.org/secure/Signup!default.jspa>`_ or `sign in with your MusicBrainz account <https://tickets.metabrainz.org/login.jsp>`_ and report it under your name. With an account, you can discuss with other users using comments if more feedback is needed and receive email updates about the bug(s) you've submitted or any other bugs you're interested in keeping tabs on.
 Workflows
 
 The following are JIRA workflow conventions that the development team uses.

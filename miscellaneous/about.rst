@@ -16,7 +16,7 @@ MusicBrainz Database
 
 The :doc:`MusicBrainz Database </musicbrainz_database/index>` stores all of the various pieces of information we collect about music, from artists and their releases to works and their composers, and much more. **Note:** We do not actually store or have access to any of the music recordings!
 
-Most of the data in the :doc:`MusicBrainz Database </musicbrainz_database/index>` is licensed under `CC0 <https://creativecommons.org/publicdomain/zero/1.0/>`, which effectively places the data into the Public Domain. That means that anyone can :doc:`download the data </musicbrainz_database/download>` and use it in any way they want. The remaining data is released under the Creative Commons `Attribution-NonCommercial-ShareAlike 3.0 <http://creativecommons.org/licenses/by-nc-sa/3.0/>` license.
+Most of the data in the :doc:`MusicBrainz Database </musicbrainz_database/index>` is licensed under `CC0 <https://creativecommons.org/publicdomain/zero/1.0/>`_, which effectively places the data into the Public Domain. That means that anyone can :doc:`download the data </musicbrainz_database/download>` and use it in any way they want. The remaining data is released under the Creative Commons `Attribution-NonCommercial-ShareAlike 3.0 <http://creativecommons.org/licenses/by-nc-sa/3.0/>`_ license.
 
 All our data is available for commercial licensing. If you are interested in licensing this data for commercial use, please :doc:`contact us </miscellaneous/contact>`.
 
@@ -32,6 +32,6 @@ If you are a commercial user, our :doc:`live data feed </products/live_data_feed
 MetaBrainz Foundation
 ---------------------
 
-MusicBrainz is operated by the `MetaBrainz Foundation <http://metabrainz.org/>`, a California based 501(c)(3) tax-exempt non-profit corporation dedicated to keeping MusicBrainz free and open source.
+MusicBrainz is operated by the `MetaBrainz Foundation <http://metabrainz.org/>`_, a California based 501(c)(3) tax-exempt non-profit corporation dedicated to keeping MusicBrainz free and open source.
 
-If you feel that MusicBrainz is a worthwhile effort, please consider `donating <http://metabrainz.org/donate>` to help support further growth and development. 
+If you feel that MusicBrainz is a worthwhile effort, please consider `donating <http://metabrainz.org/donate>`_ to help support further growth and development. 

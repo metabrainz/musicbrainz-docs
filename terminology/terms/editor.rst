@@ -5,7 +5,7 @@ Editor
 
 An editor [#f1]_ is user who contributes to MusicBrainz by entering :doc:`edits </terminology/terms/edit>` into the :doc:`database </musicbrainz_database/index>`. All editors are expected to follow the MusicBrainz :doc:`Code of Conduct </guidelines/code_of_conduct>`.
 
-Editors start as beginners, and eventually graduate to being just "editors". There are also further editor types that have special privileges, and require at least partially non-automated processes to be applied. There is a `list of editors with special privileges <https://musicbrainz.org/privileged>`.
+Editors start as beginners, and eventually graduate to being just "editors". There are also further editor types that have special privileges, and require at least partially non-automated processes to be applied. There is a `list of editors with special privileges <https://musicbrainz.org/privileged>`_.
 
 Beginner editor
 ---------------
@@ -43,7 +43,7 @@ Becoming an auto-editor
 
 To become an auto-editor, you must be nominated by an existing auto-editor and then have your nomination put to a vote.
 
-See `auto-editor election <https://musicbrainz.org/doc/Auto-Editor_Election>` for more information.
+See `auto-editor election <https://musicbrainz.org/doc/Auto-Editor_Election>`_ for more information.
 
 Relationship editor
 -------------------
@@ -72,7 +72,7 @@ Bot
 
 :doc:`Bots <terminology/terms/bot>` are programs which automatically enter edits on behalf of a human.
 
-For example, the `MBBE_Bot <https://musicbrainz.org/user/MBBE_Bot>` is an official bot maintained by MetaBrainz working on tasks requested in the :doc:`bug tracker <miscellaneous/bug_tracker>`.
+For example, the `MBBE_Bot <https://musicbrainz.org/user/MBBE_Bot>`_ is an official bot maintained by MetaBrainz working on tasks requested in the :doc:`bug tracker <miscellaneous/bug_tracker>`.
 
 .. rubric:: Footnotes
 
