@@ -13,6 +13,7 @@ Auto-edits
 An auto-edit (previously called *automod(eration)*) is an edit that bypasses the normal :doc:`voting process </introductions/voting>`, being automatically approved and instantly applied. These edits display "automatically applied" rather than a vote count.
 
 Generally, auto-edits include:
+
 - Edits that add data to the database (e.g., adding an artist or track times).
 - Minor changes to existing data (e.g., correcting capitalization).
 
