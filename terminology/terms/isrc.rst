@@ -52,7 +52,7 @@ External resources
 
 * `SoundExchange ISRC Search <https://isrc.soundexchange.com/>`_ - database of nearly 20 million ISRC codes
 * `IFPI ISRC Search <https://isrcsearch.ifpi.org/>`_ - IFPI's ISRC search ("powered by SoundExchange"…)
-* `Search engine <https://www.scpp.fr/en/Pages/consultation-phonogrammes.aspx>`_ for French phonograms provided by `SCPP (Société civile des producteurs phonographiques) <>`_.
+* `Search engine <https://www.scpp.fr/en/Pages/consultation-phonogrammes.aspx>`_ for French phonograms provided by `SCPP (Société civile des producteurs phonographiques) <https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_civile_des_producteurs_phonographiques>`_.
 * `ISRC申报平台 <http://www.isrc.com.cn/article_cate/id-147>`_ China's ISRC database
 * `國際標準錄音錄影資料代碼查詢系統 <http://isrc.ncl.edu.tw/>`_ Taiwan's ISRC database
 * `PPL Repertoire Search <https://repsearch.ppluk.com/>`_ for British recordings.
