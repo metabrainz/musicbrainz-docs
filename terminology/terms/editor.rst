@@ -45,6 +45,8 @@ To become an auto-editor, you must be nominated by an existing auto-editor and t
 
 See `auto-editor election <https://musicbrainz.org/doc/Auto-Editor_Election>`_ for more information.
 
+.. _terms_editor_relationship_editor:
+
 Relationship editor
 -------------------
 
@@ -77,5 +79,3 @@ For example, the `MBBE_Bot <https://musicbrainz.org/user/MBBE_Bot>`_ is an offic
 .. rubric:: Footnotes
 
 .. [#f1] Previously called moderator.
-
-.. _terms_editor_relationship_editor:
