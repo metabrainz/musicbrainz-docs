@@ -14,10 +14,12 @@ The act of voting is pretty simple: just choose Yes or No and enter your vote (y
 
 Voting is not always an one-off process. By default you will get an email when someone adds an edit note to an edit you've voted Yes or No on (or left an edit note on); these notes might sometimes convince you to change your vote. Or, if you stop being sure about your vote, just change it to Abstain.
 
+.. _introductions_voting_applying_edits:
+
 Applying edits
 --------------
 
-The immense majority of edits stay open for 7 days unless they are approved by an :doc:`auto-editor <terminology/terms/editor#Auto-editor>`, in which case they are automatically applied, or get three unanimous votes before that, in which case they'll be either applied (3 Yes) or rejected (3 No) shortly. At the end of the 7 day period, if they're still open, a check is made. If there are at least as many No votes as Yes votes, the edit is rejected. If there are no No votes, or fewer No votes than Yes votes, the edit is applied.
+The immense majority of edits stay open for 7 days unless they are approved by an :ref:`auto-editor <terms_editor_auto_editor>`, in which case they are automatically applied, or get three unanimous votes before that, in which case they'll be either applied (3 Yes) or rejected (3 No) shortly. At the end of the 7 day period, if they're still open, a check is made. If there are at least as many No votes as Yes votes, the edit is rejected. If there are no No votes, or fewer No votes than Yes votes, the edit is applied.
 
 Amendment edits
 ^^^^^^^^^^^^^^^

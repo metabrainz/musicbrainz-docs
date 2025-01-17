@@ -19,7 +19,7 @@ Generally, auto-edits include:
 
 However, not all edits follow these rules, and determining whether an edit will be auto-applied can be complex. Editors can ensure their edits go through voting by ticking the "Make all edits votable" checkbox when submitting changes.
 
-:doc:`Auto-editors </terminology/entities/editor#Auto-editor>` are trusted users with "auto-editor" privileges, allowing them to submit a broader range of changes as auto-edits.
+:ref:`Auto-editors <terms_editor_auto_editor>` are trusted users with "auto-editor" privileges, allowing them to submit a broader range of changes as auto-edits.
 
 Edit Statuses
 -------------
@@ -30,7 +30,7 @@ Open
 ^^^^
 An open edit can be voted on by other editors or canceled by the editor who submitted it.
 
-Typically, new edits remain open for one week. Depending on the vote tally, edits may be applied sooner (or later). Refer to the :doc:`voting introduction </introductions/voting#Applying_edits>` for more details.
+Typically, new edits remain open for one week. Depending on the vote tally, edits may be applied sooner (or later). Refer to the :ref:`voting introduction <introductions_voting_applying_edits>` for more details.
 
 Applied
 ^^^^^^^
@@ -42,7 +42,7 @@ An edit with more "no" votes than "yes" votes, resulting in rejection.
 
 No Votes Received
 ^^^^^^^^^^^^^^^^^^
-This historical status applied when the :doc:`data quality </terminology/entities/release#Data_Quality>` was set to high, but the edit received no votes.
+This historical status applied when the :ref:`data quality <entities_release_data_quality>` was set to high, but the edit received no votes.
 
 Failed Dependency, Failed Prerequisite, and Internal Error
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

@@ -22,7 +22,7 @@ Since 2005 both EAN and UPC are subsumed under the umbrella GTIN format which ca
 Guidelines
 ----------
 
-See :doc:`the guideline for barcodes </style_guides/release#Barcode>`.
+See :ref:`the guideline for barcodes <style_release_barcode>`.
 
 Other identifiers
 -----------------

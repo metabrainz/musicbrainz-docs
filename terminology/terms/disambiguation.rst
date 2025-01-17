@@ -8,7 +8,7 @@ Disambiguation Comments
 Disambiguation comments are used to distinguish identically or similarly named artists, labels, and other entities. They are visible on entity pages, as well as in search results.
 
 - Comments should be in English and kept short. A few words are usually enough to disambiguate the entity.
-- Follow the same capitalization guidelines as for :doc:`extra title information </style_guides/titles#Extra_title_information>`, as these comments are not part of the name.
+- Follow the same capitalization guidelines as for :ref:`extra title information <style_guides_title_extra_title_information>`, as these comments are not part of the name.
 
 When creating an artist, label, or place [#]_ that shares its name with an existing one, you will be prompted to enter a disambiguation comment. However, you will **not** be prompted to add a disambiguation comment for the pre-existing entity with the same name. It is ideal to add comments to the existing entities as well to avoid confusion for other editors.
 

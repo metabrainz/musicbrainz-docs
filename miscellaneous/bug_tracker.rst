@@ -30,4 +30,4 @@ See Also
 --------
 
 * :doc:`How to Report an Issue </how-tos/report_issue>`
-* :doc:`Development/Git </development/index#Git>`
+* :ref:`Development/Git <development_git>`

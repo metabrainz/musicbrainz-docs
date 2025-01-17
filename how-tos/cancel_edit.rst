@@ -6,7 +6,7 @@ Cancelling an Edit
 What
 ----
 
-If an edit has not yet been :doc:`applied </introductions/voting#Applying_edits>`, the editor who submitted that edit can cancel it.
+If an edit has not yet been :ref:`applied <introductions_voting_applying_edits>`, the editor who submitted that edit can cancel it.
 
 When
 ----
