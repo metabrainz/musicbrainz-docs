@@ -36,7 +36,7 @@ Delay after a No vote
 
 In most cases, the editor making an edit will want to react to a No vote on it. To ensure the original editor has time to react, the first No vote on an edit will extend the time until expiration to 72 hours if it was less than 72 hours when the vote was entered. Similarly, instead of automatically being rejected when having 3 uncontested No votes, the edit will stay open until 72 hours have passed from the first No vote, giving time to the editor to either argue their case or :doc:`cancel the edit </how-tos/cancel_edit>`.
 
-**Note:** The voting period of an edit can be extended multiple times as long as the count of No votes goes from 0 to 1 (i.e. it becomes contested again)
+.. note:: The voting period of an edit can be extended multiple times as long as the count of No votes goes from 0 to 1 (i.e. it becomes contested again)
 
 This flowchart illustrates how edits become (or don't become) applied:
 

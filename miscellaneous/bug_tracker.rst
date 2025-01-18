@@ -1,7 +1,7 @@
 .. MusicBrainz Documentation Project
 
 Bug Tracker
-======
+===========
 
 Reporting bugs
 --------------
@@ -26,8 +26,10 @@ The procedure to follow is:
 #. When an issue is your issue to decide and when you've made your decision, note the decision in a comment.
 #. Change the status back to open and assign it to the person who should continue to work on the issue (unless in the course of the decision making the task has been passed to someone else).
 
-See Also
---------
+.. seealso:: 
 
-* :doc:`How to Report an Issue </how-tos/report_issue>`
-* :ref:`Development/Git <development_git>`
+   :doc:`How to Report an Issue </how-tos/report_issue>`
+        Tutorial on reporting issues.
+
+   :ref:`Development/Git <development_git>`
+        How MusicBrainz uses Git for development.

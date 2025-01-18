@@ -20,8 +20,10 @@ A release may have multiple Disc IDs, and a single Disc ID may be linked to mult
 - Different pressings of a CD often have slightly different frame offsets, resulting in different Disc IDs.
 - Conversely, two different CDs may have exactly the same set of frame offsets and therefore share the same Disc ID. For example: `lwHl8fGzJyLXQR33ug60E8jhf4k- <http://musicbrainz.org/cdtoc/lwHl8fGzJyLXQR33ug60E8jhf4k->`_.
 
-See Also
---------
+.. seealso:: 
 
-- :doc:`How to Add Disc IDs </how-tos/add_disc_ids>`
-- :doc:`Disc ID Calculation </development/disc_id_calculation>`
+   :doc:`How to Add Disc IDs </how-tos/add_disc_ids>`
+      Tutorial on adding Disc IDs to a release.
+   
+   :doc:`Disc ID Calculation </development/disc_id_calculation>`
+      Explanation of how Disc IDs are calculated.

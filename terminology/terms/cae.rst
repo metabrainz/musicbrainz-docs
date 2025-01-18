@@ -17,9 +17,12 @@ CAE numbers can also be used at the websites of other work registration organiza
 
 *MusicBrainz doesn't currently store CAEs but could do so for label listings.*
 
-See Also
---------
+.. seealso::
 
-* Website of the registration authority `in translated English <https://www.suisa.ch/en/>`_ and `in the original German <https://www.suisa.ch/de/>`_
-* `CAE number <https://en.wikipedia.org/wiki/CAE_number>`_ at Wikipedia
-* `SUISA <https://en.wikipedia.org/wiki/SUISA>`_ at Wikipedia
+.. seealso:: 
+
+   SUISse Auteurs (SUISA)
+      Website of the registration authority `in translated English <https://www.suisa.ch/en/>`_ and `in the original German <https://www.suisa.ch/de/>`_, as well as `Wikipedia article <https://en.wikipedia.org/wiki/SUISA>`_ about them.
+
+   `CAE number <https://en.wikipedia.org/wiki/CAE_number>`_
+      Wikipedia article on the CAE number.

@@ -45,7 +45,7 @@ Some users have written tools to automatically submit ISRCs from a CD or digital
 * Windows: `isrcsubmit <https://web.archive.org/web/20120127060214/https://oxygene.sk/lukas/isrcsubmit-0.2.zip>`_ (author: Lukas Lalinsky, doesn't work for multi-disc releases, see `OTHER-157 <http://tickets.musicbrainz.org/browse/OTHER-157>`_)
 * Windows: `Command line tool (mediatools.exe) <https://web.archive.org/web/20141206180403/http://www.flanagan-family.com/mediatools.zip>`_ for extracting ISRC and CD-Text data from CDs (author: `simonf <https://web.archive.org/web/20150211042333/http://forums.musicbrainz.org/profile.php?id=3851>`_)
 
-Note: Not all CD/DVD drives can successfully read the ISRCs from the CD.
+.. note:: Not all CD/DVD drives can successfully read the ISRCs from the CD.
 
 External resources
 ------------------

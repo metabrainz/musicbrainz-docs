@@ -1,7 +1,7 @@
 .. MusicBrainz Documentation Project
 
 Proposals
-======
+=========
 
 Modifications to the :doc:`style guidelines </style_guides/_detailed_guides>`, adding types of :doc:`relationships </relationships/relationships>`, and other similar changes happen through the following user-initiated process.
 
