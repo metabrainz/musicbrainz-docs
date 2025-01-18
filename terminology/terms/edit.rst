@@ -5,7 +5,7 @@
 Edits
 =====
 
-An edit (previously called *moderation*) is a change entered by an :doc:`editor </terminology/entities/editor>` into the :doc:`MusicBrainz Database </musicbrainz_database/index>`.
+An edit (previously called *moderation*) is a change entered by an :doc:`editor </terminology/terms/editor>` into the :doc:`MusicBrainz Database </musicbrainz_database/index>`.
 
 Auto-edits
 ----------

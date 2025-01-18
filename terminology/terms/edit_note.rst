@@ -35,7 +35,7 @@ Edit notes are displayed when viewing the edits they are left on. Additionally, 
 When to Use Them
 ----------------
 
-It is good practice to leave a note whenever making a non-trivial edit to explain the changes. Including a URL link to supporting information is particularly helpful. For contentious edits, such as adding a :doc:`standalone recording </terminology/entities/standalone_recording>` or removing data, providing an edit note is crucial to avoid having the edit voted against.
+It is good practice to leave a note whenever making a non-trivial edit to explain the changes. Including a URL link to supporting information is particularly helpful. For contentious edits, such as adding a :doc:`standalone recording </terminology/terms/standalone_recording>` or removing data, providing an edit note is crucial to avoid having the edit voted against.
 
 When voting "No" on an edit, it is essential to leave a note explaining why. This helps:
 
@@ -59,7 +59,7 @@ HTML syntax is not supported in edit notes. However, URLs are automatically disp
 |                              | ``edit:123456``                            |                                                          |
 |                              | ``edit 123456``                            |                                                          |
 +------------------------------+--------------------------------------------+----------------------------------------------------------+
-| Linking to a `WikiDocs` page | ``doc:Edit_Note``                          | :doc:`Edit Note </terminology/entities/edit_note>`       |
+| Linking to a `WikiDocs` page | ``doc:Edit_Note``                          | :doc:`Edit Note </terminology/terms/edit_note>`          |
 |                              | ``[Edit_Note]``                            |                                                          |
 |                              | (note: bracketed form must be Capitalized) |                                                          |
 +------------------------------+--------------------------------------------+----------------------------------------------------------+

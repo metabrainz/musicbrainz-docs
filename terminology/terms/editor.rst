@@ -22,6 +22,8 @@ Moving from beginner editor to editor
 
 Accounts must be more than 2 weeks old, have a verified email address, and more than 10 accepted edits (edits that have gone through the voting process and been accepted, rather than having automatically applied) to leave the "Beginner" category and be allowed to vote on edits.
 
+.. _terms_editor_auto_editor:
+
 Auto-editor
 -----------
 
@@ -72,9 +74,9 @@ Account admins are MetaBrainz employees who can change the privileges of other u
 Bot
 ---
 
-:doc:`Bots <terminology/terms/bot>` are programs which automatically enter edits on behalf of a human.
+:doc:`Bots </terminology/terms/bot>` are programs which automatically enter edits on behalf of a human.
 
-For example, the `MBBE_Bot <https://musicbrainz.org/user/MBBE_Bot>`_ is an official bot maintained by MetaBrainz working on tasks requested in the :doc:`bug tracker <miscellaneous/bug_tracker>`.
+For example, the `MBBE_Bot <https://musicbrainz.org/user/MBBE_Bot>`_ is an official bot maintained by MetaBrainz working on tasks requested in the :doc:`bug tracker </miscellaneous/bug_tracker>`.
 
 .. rubric:: Footnotes
 
