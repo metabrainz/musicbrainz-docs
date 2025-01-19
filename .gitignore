@@ -4,6 +4,6 @@
 /_docs/
 /_images/
 /_ignored/
-/__pycache__/
+__pycache__/
 /_locale/**/*.mo
 /_locale/gettext/.doctrees

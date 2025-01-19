@@ -31,8 +31,8 @@ project = 'MusicBrainz'
 
 # # The full version, including alpha/beta/rc tags (must start with a 'v' and not contain any spaces)
 # version = 'v2.9.2'
-# version = datetime.datetime.now().strftime("%Y-%m-%d")
-version = '2023-10-15'
+# Default to the published date for now until a versioning format has been decided.
+version = datetime.datetime.now().strftime("%Y-%m-%d")
 
 author = 'MusicBrainz Team'
 copyright = 'This documentation is licensed under CC0 1.0.'     # pylint: disable=redefined-builtin
