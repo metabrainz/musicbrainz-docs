@@ -103,7 +103,11 @@ The :ref:`status <style_release_status>` describes how "official" a release is. 
 
    .. newline between bullets
 
-   - **withdrawn** - A previously official release that was actively withdrawn from circulation by the artist and/or their record company after being released, whether to replace it with a new version with some changes or to just retire it altogether (e.g. because of legal issues).
+   - **withdrawn** - An official release that was actively withdrawn from circulation by the artist and/or their record company after being released, whether to replace it with a new version or to retire it altogether. This does not include releases that have reached the end of their “natural” life cycle, such as being sold out and out of print.
+
+   .. newline between bullets
+
+   - **expunged** - A previously official release that was actively expunged from an artist or records company’s discography. This should not be used in cases where the release was just withdrawn, there needs to be known artist or label intent to disown the release and no longer consider it part of their discography. If it is unclear, use Withdrawn.
 
    .. newline between bullets
 

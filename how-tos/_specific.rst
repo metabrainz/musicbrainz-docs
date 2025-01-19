@@ -11,7 +11,7 @@ Specific detailed how-to instruction topics include:
    /how-tos/add_cover_art
    /how-tos/add_disc_ids
    /how-tos/search_edits
-   /how-tos/cancel_edit
+   Cancelling an Edit </how-tos/cancel_edit>
    /how-tos/remove_entities
    /how-tos/identify_labels
    /how-tos/work_with_acoustids
@@ -20,4 +20,5 @@ Specific detailed how-to instruction topics include:
    /how-tos/split_artists
    /how-tos/report_user
    /how-tos/report_issue
+   Proposing a New Relationship or Modification to the Style Guidelines </how-tos/proposals>
    Tagging Files with Picard <https://picard.musicbrainz.org/quick-start/>

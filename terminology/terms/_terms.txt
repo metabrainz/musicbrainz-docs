@@ -9,6 +9,7 @@
    Alias </terminology/terms/alias>
    Annotation </terminology/terms/annotation>
    Barcode </terminology/terms/barcode>
+   Bots </terminology/terms/bot>
    CAE </terminology/terms/cae>
    Catalog Number </terminology/terms/catalog_number>
    Collection </terminology/terms/collection>

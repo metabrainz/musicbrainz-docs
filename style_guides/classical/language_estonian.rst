@@ -156,4 +156,3 @@ Helistikutabel / Key table
 .. A-duur / La-mažoor A major a-moll / la-minoor A minor
 .. B-duur / Si-bemoll-mažoor B-flat major b-moll / si-bemoll-minoor B-flat minor
 .. H-duur / Si-mažoor B major h-moll / si-minoor B minor
-
