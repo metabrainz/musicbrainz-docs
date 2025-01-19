@@ -7,7 +7,7 @@ Edit Notes
 
 Edit notes are comments left by :doc:`users </terminology/terms/editor>` on an edit and serve as an important form of communication between users on the site. They can either be entered at the time of making an edit or added to an existing edit.
 
-**Note:** All users must follow the :doc:`Code of Conduct </guidelines/code_of_conduct>` when entering an edit note.
+.. note:: All users must follow the :doc:`Code of Conduct </guidelines/code_of_conduct>` when entering an edit note.
 
 What to Use Them For
 --------------------
@@ -30,7 +30,7 @@ Edit notes are displayed when viewing the edits they are left on. Additionally, 
 - Other users who have entered a note on the edit.
 - Any user who has voted on the edit.
 
-**Note:** Any vote, whether "Yes," "No," or "Abstain," will result in receiving notes (previously restricted to "Yes" or "No" votes).
+.. note:: Any vote, whether "Yes," "No," or "Abstain," will result in receiving notes (previously restricted to "Yes" or "No" votes).
 
 When to Use Them
 ----------------

@@ -14,7 +14,9 @@ As an encyclopedia and as a community, MusicBrainz exists only to collect as muc
 MusicBrainz Database
 --------------------
 
-The :doc:`MusicBrainz Database </musicbrainz_database/index>` stores all of the various pieces of information we collect about music, from artists and their releases to works and their composers, and much more. **Note:** We do not actually store or have access to any of the music recordings!
+The :doc:`MusicBrainz Database </musicbrainz_database/index>` stores all of the various pieces of information we collect about music, from artists and their releases to works and their composers, and much more. 
+
+.. note:: We do not actually store or have access to any of the music recordings!
 
 Most of the data in the :doc:`MusicBrainz Database </musicbrainz_database/index>` is licensed under `CC0 <https://creativecommons.org/publicdomain/zero/1.0/>`_, which effectively places the data into the Public Domain. That means that anyone can :doc:`download the data </musicbrainz_database/download>` and use it in any way they want. The remaining data is released under the Creative Commons `Attribution-NonCommercial-ShareAlike 3.0 <http://creativecommons.org/licenses/by-nc-sa/3.0/>`_ license.
 
