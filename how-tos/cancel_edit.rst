@@ -33,7 +33,5 @@ There are several places to find your open edits, including:
 
 * From your profile page, click the :guilabel:`Open edits` tab
 * In the edit history for a particular :doc:`entity </terminology/entities/index>`
-
-    * Click the :guilabel:`Edit history` link in the right sidebar
-    
+    * Click the :guilabel:`Edit history` link in the right sidebar 
 * Using the `edit search page <https://musicbrainz.org/search/edits>`_

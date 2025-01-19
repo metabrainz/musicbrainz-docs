@@ -16,4 +16,4 @@ While Amazon often has the same ASIN for a CD sold via several national portals,
 Adding an ASIN in MusicBrainz
 -----------------------------
 
-When editing on the *Release Information* tab, in the box labeled External Links type (or paste) the entire Amazon link, e.g. http://www.amazon.com/gp/product/B00005NEKI for release http://musicbrainz.org/release/b1dc9838-adf3-43f2-93f9-802b46e5fe59. 
+When editing on the *Release Information* tab, in the box labeled External Links type (or paste) the entire Amazon link, e.g. http://www.amazon.com/gp/product/B00005NEKI for release http://musicbrainz.org/release/b1dc9838-adf3-43f2-93f9-802b46e5fe59.

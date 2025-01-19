@@ -33,7 +33,6 @@ Obligations of an auto-editor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
     *"With great power comes great responsibility"*
-    
     -- Uncle Ben (of Spider Man fame)
 
 Auto-editors should always align themselves to the :doc:`Code of Conduct </guidelines/code_of_conduct>`. Furthermore, they should be able to look beyond their nose and take an objective point of view regarding the data they edit. Being familiar with the various editing aspects of the site is important, as well as having a clear grasp of the :doc:`style guidelines </style_guides/_detailed_guides>`.

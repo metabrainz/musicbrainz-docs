@@ -24,4 +24,4 @@ Unreasonable requests, or requests that, while useful, would require unreasonabl
 Update
 ------
 
-Updates to style issues will be posted regularly (every two weeks, as long as something has changed at all) on the `MetaBrainz blog <https://blog.metabrainz.org/>`_. The changes themselves might be implemented earlier than that, although major changes will generally happen in the same schedule as new code releases. 
+Updates to style issues will be posted regularly (every two weeks, as long as something has changed at all) on the `MetaBrainz blog <https://blog.metabrainz.org/>`_. The changes themselves might be implemented earlier than that, although major changes will generally happen in the same schedule as new code releases.

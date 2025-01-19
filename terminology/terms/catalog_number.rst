@@ -23,4 +23,4 @@ Additional Notes
 
 6. A :doc:`Label Code </terminology/terms/label_code>` (e.g. LC16158) is NOT a Catalog Number!
 
-7. "[none]" is used to represent that a release has no Catalog number. 
+7. "[none]" is used to represent that a release has no Catalog number.

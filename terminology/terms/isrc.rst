@@ -34,9 +34,7 @@ Resources
 Some users have written tools to automatically submit ISRCs from a CD or digital service provider using the :doc:`MusicBrainz API </development/api>`:
 
 * Web: `kepstin’s MagicISRC <https://magicisrc.kepstin.ca/>`_ (`GitHub <https://github.com/kepstin/magicisrc>`_) for one {multi-disc} release (author: `kepstin <http://musicbrainz.org/user/kepstin>`_)
-        
     * `mb. MASS ISRC <https://github.com/jesus2099/konami-command/blob/master/mb_MASS-ISRC.user.js>`_ Paste a bunch of ISRC instead of one by one in kepstin's magicisrc (author: `jesus2099 <https://musicbrainz.org/user/jesus2099>`_)
-    
 * Web: `Spotify ISRC submit <https://d.ontun.es/>`_ (author: `tatsumo <https://musicbrainz.org/user/tatsumo>`_; `MB forums thread <https://community.metabrainz.org/t/20910>`_)
 * Linux, Windows, macOS (Python): `isrcsubmit <http://jonnyjd.github.io/musicbrainz-isrcsubmit/>`_ (author: `JonnyJD <https://wiki.musicbrainz.org/User:JonnyJD>`_)
   (supported back-ends: mediatools, cd_info, cdrdao, discisrc, drutils, cdda2wav, icedax; duplicate detection and review; `MB forums thread (archived) <https://web.archive.org/web/20150324140342/http://forums.musicbrainz.org/viewtopic.php?id=3444>`_)

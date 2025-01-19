@@ -34,4 +34,4 @@ MetaBrainz Foundation
 
 MusicBrainz is operated by the `MetaBrainz Foundation <http://metabrainz.org/>`_, a California based 501(c)(3) tax-exempt non-profit corporation dedicated to keeping MusicBrainz free and open source.
 
-If you feel that MusicBrainz is a worthwhile effort, please consider `donating <http://metabrainz.org/donate>`_ to help support further growth and development. 
+If you feel that MusicBrainz is a worthwhile effort, please consider `donating <http://metabrainz.org/donate>`_ to help support further growth and development.
