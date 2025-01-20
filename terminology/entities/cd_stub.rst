@@ -22,6 +22,6 @@ CD stubs can also be posted using the :doc:`web service </products/web_service>`
 
 Once the CD stub has been entered, the data can be retrieved by Picard using the :doc:`web service </products/web_service>` for 14 days. After the 14 days, the next user to come along and request the data will be forwarded to the web site where they will review the CD stub and have the option of improving the data before retrieving it and tagging their files with it. After that user reviews the CD stub, its 14 day cycle starts over again.
 
-**Note:** The 14 day cycle doesn't apply to users browsing the data on the website, that can be done at any time with no restriction. The cycle only applies to users requesting the data from the web service.
+.. note:: The 14 day cycle doesn't apply to users browsing the data on the website, that can be done at any time with no restriction. The cycle only applies to users requesting the data from the web service.
 
 The goal here is to encourage people to regularly look at the data and for it to improve as people use it. At the same time, the server keeps track of how many requests any CD Stub receives and how many times it's reviewed. This flow of data gives MusicBrainz a real life view of what data is important and enables MusicBrainz editors to migrate some of the more popular CD stubs to the main database. This has proved to be a success as many CD stubs are migrated into the main database each week.
