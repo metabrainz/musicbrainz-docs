@@ -19,7 +19,7 @@ These are mediums of their respective :doc:`releases </terminology/entities/rele
 * CD 1 of the 1984 US release of "`The Wall <https://musicbrainz.org/release/4bd2dbd5-a961-335a-a618-39c26b2ee791>`_" by Pink Floyd.
 * CD 2 of the 2005 UK release of "`Aerial <https://musicbrainz.org/release/f205627f-b70a-409d-adbe-66289b614e80>`_" by Kate Bush, named "A Sky of Honey".
 * 12" vinyl 1 of the 1975 US release of "`Physical Graffiti <https://musicbrainz.org/release/0d06025c-afff-49fd-a1db-8005e686e4d9>`_" by Led Zeppelin.
-  * And also 12" vinyl 2 of the same release (but not sides A, B, C and D!).
+    * And also 12" vinyl 2 of the same release (but not sides A, B, C and D!).
 * Digital Media 1 of the 2010 US digital release of "`My Beautiful Dark Twisted Fantasy <https://musicbrainz.org/release/f49244dd-7921-41d0-b5d8-ebf531c776b1>`_" by Kanye West.
 
 Dates
