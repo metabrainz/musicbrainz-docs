@@ -16,7 +16,6 @@ The diagram below shows some examples of recorded audio, recordings and released
 .. image:: /images/Recordings_Helper_Diagram.svg
    :alt: Recordings Helper Diagram
 
-
 Examples
 --------
 
